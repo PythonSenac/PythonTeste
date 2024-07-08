@@ -1,8 +1,7 @@
 # Projeto Dado Humanizado! Python Crias
 
 Trienamento GRATUITO - Python Cria: da faixa branca a verde
-<br>
-<br>
+
 Para realizar o treinamento, você pode desenvolver utilizando o VS Code habilitado para Python (que é o que utilizo). A instalação é simples! Basta seguir o tutorial: https://code.visualstudio.com/docs/languages/python
 <br>
 
@@ -13,9 +12,9 @@ Para realizar o treinamento, você pode desenvolver utilizando o VS Code habilit
 ## Sobre o que é?
 
 Faaalaaaa coisa rica! Td bem com vc?
-<br>
+
 Bem-vindo a mais uma iniciativa do projeto Dado Humanizado! O Python Crias!!!!
-<br>
+
 Desta vez, vamos entregar um treinamento de Fundamentos de Python, totalmente GRATUITO, visando te capacitar no desenvolvimento de algoritmos.
 <br>
 O Treinamento é GRATUITO mas, conto com sua doação para que possamos distribuir presentes para 200 crianças de favelas em Jacarepaguá, Zona Oeste do RJ (Morro da Covanca, Pendura Saia, Caixa D'água e Renascer), em parceria com o CMS Jorge Saldanha! 
